@@ -7,7 +7,7 @@ Linuxを想定（windowsの人はwsl使って）。
         cd build
         cmake ..
         make
-        sudo make install # /usr/local/lib, /usr/local/includeにそれぞれ`.lib`と`.hpp`ファイルができる。
+        sudo make install                #/usr/local/lib, /usr/local/includeにそれぞれ`.lib`と`.hpp`ファイルができる。
 
 2. 実行ファイルをビルド
 
